@@ -1,6 +1,5 @@
 # Datascience
-Datascience hands on code: R codes for various machine learning algorithms, used to create prediction models.
-
+Datascience hands on : Python & R codes,datasets for various machine learning algorithms - used to create prediction models and do data analysis.
 	1.Direct marketing customer prediction using linear regression
 	2.Target customer identification, credit history analysis using Decision tree classification
 	3.Brand perception analysis, Survival prediction analysis using logictic regression

@@ -1,6 +1,6 @@
 # Datascience
 Datascience hands on code
-This repository includes R & Python codes for various machine learning algorithms used to create prediction models and do data analysis.
+This repository includes R & Python codes for various machine learning algorithms used to create prediction models.
 
 	1.Direct marketing customer prediction using linear regression
 	2.Target customer identification, credit history analysis using Decision tree classification
